@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/itsmebarath/leetcode-solutions/tree/master/3870-count-commas-in-range) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/itsmebarath/leetcode-solutions/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/itsmebarath/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
