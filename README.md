@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/itsmebarath/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/itsmebarath/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## String
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/itsmebarath/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [3870-count-commas-in-range](https://github.com/itsmebarath/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/itsmebarath/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/itsmebarath/leetcode-solutions/tree/master/0027-remove-element) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/itsmebarath/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
