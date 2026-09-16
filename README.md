@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/itsmebarath/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/itsmebarath/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0056-merge-intervals](https://github.com/itsmebarath/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0189-rotate-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsmebarath/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsmebarath/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -80,5 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/itsmebarath/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsmebarath/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/itsmebarath/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
