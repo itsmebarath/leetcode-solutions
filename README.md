@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsmebarath/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0918-maximum-sum-circular-subarray](https://github.com/itsmebarath/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/itsmebarath/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsmebarath/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/itsmebarath/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/itsmebarath/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/itsmebarath/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsmebarath/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsmebarath/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/itsmebarath/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/itsmebarath/leetcode-solutions/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/itsmebarath/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/itsmebarath/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/itsmebarath/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/itsmebarath/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
