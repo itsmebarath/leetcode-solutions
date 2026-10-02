@@ -1,50 +1,43 @@
-import java.util.*;
-
 class Solution {
 
     public List<String> generateParenthesis(int n) {
-
         List<String> result = new ArrayList<>();
 
-        backtrack("", 0, 0, n, result);
+        backtrack(result, new StringBuilder(), 0, 0, n);
 
         return result;
     }
 
     private void backtrack(
-        String current,
+        List<String> result,
+        StringBuilder current,
         int open,
         int close,
-        int n,
-        List<String> result
+        int n
     ) {
 
-        // Complete valid combination
-        if (current.length() == 2 * n) {
-            result.add(current);
+        // Complete valid string
+        if (open == n && close == n) {
+            result.add(current.toString());
             return;
         }
 
-        // Add opening bracket
+        // Add '('
         if (open < n) {
-            backtrack(
-                current + "(",
-                open + 1,
-                close,
-                n,
-                result
-            );
+            current.append('(');
+
+            backtrack(result, current, open + 1, close, n);
+
+            current.deleteCharAt(current.length() - 1);
         }
 
-        // Add closing bracket
+        // Add ')'
         if (close < open) {
-            backtrack(
-                current + ")",
-                open,
-                close + 1,
-                n,
-                result
-            );
+            current.append(')');
+
+            backtrack(result, current, open, close + 1, n);
+
+            current.deleteCharAt(current.length() - 1);
         }
     }
 }
