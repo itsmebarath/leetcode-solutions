@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/itsmebarath/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/itsmebarath/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/itsmebarath/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itsmebarath/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1470-shuffle-the-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/itsmebarath/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/itsmebarath/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/itsmebarath/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/itsmebarath/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsmebarath/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/itsmebarath/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/itsmebarath/leetcode-solutions/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/itsmebarath/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsmebarath/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/itsmebarath/leetcode-solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
