@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsmebarath/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/itsmebarath/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/itsmebarath/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/itsmebarath/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/itsmebarath/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/itsmebarath/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itsmebarath/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Recursion
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsmebarath/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/itsmebarath/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/itsmebarath/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/itsmebarath/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/itsmebarath/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsmebarath/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itsmebarath/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/itsmebarath/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
