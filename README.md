@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/itsmebarath/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/itsmebarath/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/itsmebarath/leetcode-solutions/tree/master/0268-missing-number) |
 | [3870-count-commas-in-range](https://github.com/itsmebarath/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/itsmebarath/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/itsmebarath/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/itsmebarath/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/itsmebarath/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/itsmebarath/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/itsmebarath/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/itsmebarath/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/itsmebarath/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/itsmebarath/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/itsmebarath/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsmebarath/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/itsmebarath/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/itsmebarath/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/itsmebarath/leetcode-solutions/tree/master/0268-missing-number) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsmebarath/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/itsmebarath/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itsmebarath/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/itsmebarath/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/itsmebarath/leetcode-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/itsmebarath/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itsmebarath/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsmebarath/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/itsmebarath/leetcode-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/itsmebarath/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
